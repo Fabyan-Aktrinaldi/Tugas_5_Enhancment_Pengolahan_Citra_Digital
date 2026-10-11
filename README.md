@@ -1,7 +1,9 @@
 # Tugas 5: Enhancement untuk OCR (Filtering, Noise Reduction, dan Sharpening)
 
-Mata kuliah Pengolahan Citra Digital, Universitas Halu Oleo.
-Nama: Fabyan Aktrinaldi | NIM: F1G124029 | Kelas: A
+Mata kuliah Pengolahan Citra Digital
+- Nama : Fabyan Aktrinaldi 
+- NIM  : F1G124029 
+- Kelas: A
 
 ## Catatan penting
 
